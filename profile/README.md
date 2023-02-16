@@ -1,4 +1,4 @@
-# [CropMOSAIKS:](https://bren.ucsb.edu/projects/open-source-pipeline-remote-sensing-crop-yields-under-environmental-change-sub-saharan) An Open Source Pipeline for Remote Sensing of Crop Yields: A Zambia Case Study <img src="https://github.com/cropmosaiks/NDVI_Images/blob/main/images/cropMOSAIKS_hex.png?raw=true" alt="logo" align="right" height=200px/>
+# [MOSAIKS:](https://bren.ucsb.edu/projects/measuring-agricultural-adaptation-climate-change-zambia-using-satellite-imagery-and) Measuring Agricultural Adaptation to Climate Change in Zambia Using Satellite Imagery and Machine Learning <img src="https://github.com/cropmosaiks/NDVI_Images/blob/main/images/cropMOSAIKS_hex.png?raw=true" alt="logo" align="right" height=200px/>
 
 ## Purpose
 
