@@ -12,7 +12,7 @@ This organization hosts three repositories including:
  1. [Preprocessing](https://github.com/mosaiks-capstone/Preprocessing)
  2. [Featurization](https://github.com/mosaiks-capstone/Featurization)
  3. [Modeling](https://github.com/mosaiks-capstone/Modeling)
- 4. [images](https://github.com/mosaiks-capstone/Visualizations)
+ 4. [Visualizations](https://github.com/mosaiks-capstone/Visualizations)
 
 Each repository has independent README's that provide detailed explanations of their notebooks, data sources, and file organization.
 
