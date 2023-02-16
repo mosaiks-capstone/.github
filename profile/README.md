@@ -8,18 +8,16 @@ What is here?
 
 This organization hosts three repositories including:
 
-    Featurization
-    Modeling
-    images
+Featurization
+Modeling
+images
 
 The top two repositories have independent README's that provide detailed explanations of their notebooks, data sources, and file organization. The third repository includes graphics generated for presentations.
 Contributing
 
 The capstone project was completed on June 9th, 2022. Some team members will be continuing work in this field and the repositories are likely to stay active for some time to come. Suggestions for improvements to the code or documentation is welcome and encouraged. Please submit questions, comments, or code via issues or pull requests on either of the repositories. To correspond with the data scientists who produced these materials, please see their personal GitHub accounts listed below and feel free to contact them via email:
 
-Grace Lewin
-Cullen Molitor
-Steven Cognac
-Juliet Cohen
-
-For rules and regulations for this organization, please see the Code of Conduct
+Andrew Bartnik
+Carlo Broderick
+Gab Smith
+Hailey Veirs
