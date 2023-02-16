@@ -1,4 +1,4 @@
-# [CropMOSAIKS:](https://bren.ucsb.edu/projects/open-source-pipeline-remote-sensing-crop-yields-under-environmental-change-sub-saharan) An Open Source Pipeline for Remote Sensing of Agricultural Variables: A Zambia Case Study <img src="https://github.com/cropmosaiks/NDVI_Images/blob/main/images/cropMOSAIKS_hex.png?raw=true" alt="logo" align="right" height=200px/>
+# [MOSIAKS:](https://bren.ucsb.edu/projects/measuring-agricultural-adaptation-climate-change-zambia-using-satellite-imagery-and) Measuring Agricultural Adaptation to Climate Change in Zambia Using Satellite Imagery and Machine Learning <img src="https://github.com/cropmosaiks/NDVI_Images/blob/main/images/cropMOSAIKS_hex.png?raw=true" alt="logo" align="right" height=200px/>
 
 ## Purpose
 
@@ -12,7 +12,7 @@ This organization hosts three repositories including:
  1. [Preprocessing](https://github.com/mosaiks-capstone/Preprocessing)
  2. [Featurization](https://github.com/mosaiks-capstone/Featurization)
  3. [Modeling](https://github.com/mosaiks-capstone/Modeling)
- 4. [Visualizations](https://github.com/mosaiks-capstone/Visualizations)
+ 4. [images](https://github.com/mosaiks-capstone/Visualizations)
 
 Each repository has independent README's that provide detailed explanations of their notebooks, data sources, and file organization.
 
