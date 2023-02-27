@@ -9,10 +9,10 @@ In this application of the MOSAIKS approach, the features are joined to agricult
 ## What is here?
 
 This organization hosts four repositories including:
- 1. [Featurization](https://github.com/mosaiks-capstone/Featurization)
- 2. [Modeling](https://github.com/mosaiks-capstone/Modeling)
- 3. [Visualizations](https://github.com/mosaiks-capstone/Visualizations)
- 4. [Preprocessing](https://github.com/mosaiks-capstone/Preprocessing)
+ 1. [Preprocessing](https://github.com/mosaiks-capstone/Preprocessing)
+ 2. [Featurization](https://github.com/mosaiks-capstone/Featurization)
+ 3. [Modeling](https://github.com/mosaiks-capstone/Modeling)
+ 4. [Visualizations](https://github.com/mosaiks-capstone/Visualizations)
 
 ## Contributing
 
