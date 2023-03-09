@@ -20,8 +20,8 @@ The capstone project's completion date is June 9th, 2023. Some team members will
 
 [Andrew Bartnik](https://github.com/andrewbartnik)\
 [Carlo Broderick](https://github.com/CarloBroderick)\
-[Hailey Veirs](https://github.com/gabriellensmith)\
-[Gabrielle Smith](https://github.com/hveirs)
+[Gabrielle Smith](https://github.com/gabriellensmith)\
+[Hailey Viers](https://github.com/hveirs)
 
 ## Acknowledgements
 
