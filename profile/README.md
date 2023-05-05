@@ -16,7 +16,7 @@ This organization hosts four repositories including:
 
 ## Contributing
 
-The capstone project's completion date is June 9th, 2023. Some team members will be continuing work in this field and the repositories may stay active for some time to come. Suggestions for improvements to the code or documentation is welcome and encouraged. Please submit questions, comments, or code via issues or pull requests to the reposetories in this organisation. To correspond with the data scientists who produced these materials, please see their personal GitHub accounts listed below and feel free to contact them via email:
+The capstone project's completion date is June 9th, 2023. Some team members will be continuing work in this field and the repositories may stay active for some time to come. Suggestions for improvements to the code or documentation are welcomed and encouraged. Please submit questions, comments, or code via issues or pull requests to the reposetories in this organisation. To correspond with the data scientists who produced these materials, please see their personal GitHub accounts listed below and feel free to contact them via email:
 
 [Andrew Bartnik](https://github.com/andrewbartnik)\
 [Carlo Broderick](https://github.com/CarloBroderick)\
