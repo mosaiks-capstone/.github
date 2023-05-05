@@ -8,6 +8,10 @@ This GitHub organization contains the code and documentation for the MOSAIKS Cap
 
 The MOSAIKS approach uses an _unsupervised_ machine learning method called random kitchen sinks to produce task-agnostic features that can be applied to various tasks. These geolocated features are joined to Zambian agricultural data, and multiple models are trained on this merged dataset using a _supervised_ machine learning method, cross-validated ridge regression. The models are optimized for their prediction tasks through systematic comparisons of model performance across temporal subsets, spectral band combinations, and interpolation approaches. The optimized models are then used to predict agricultural data for regions lacking data.
 
+## Workflow
+
+The repositories should be reviewed sequentially. If a user intends to repurpose this GitHub organization for their own project, they may be able to bypass much of the preprocessing repository, as it primarily focuses on processing ground truth training data specific to this project.
+
 ## Repositories
 
 This organization hosts four repositories:
